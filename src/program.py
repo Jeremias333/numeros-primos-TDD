@@ -85,6 +85,8 @@ def main():
 
     # Inicializando todos os valores
     insert_list = [2, 3, 5, 4, 6, 7, 11, 13, 17, 19, 23]
+    # insert_list = [4,6]
+    # insert_list = [4,6,12]
     print("Lista inicial: ", insert_list)
     for item in insert_list:
         add_in_list(item)
